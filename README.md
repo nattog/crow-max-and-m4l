@@ -1,5 +1,5 @@
 # crow-max-and-m4l
-Max + M4L for crow (monome/whimsical raps)
+Customising the Max + M4L devices for crow (monome/whimsical raps) to make the UI a little more convenient for my personal setup.
 
 ## Max installation
 After downloading the entire `crow-max-and-m4l` repo, extract the zip file and you should get two unique folders: `crow_max` and `crow_m4l`.
